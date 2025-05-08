@@ -95,6 +95,4 @@ terraform destroy
 * The AMI ID must be valid for the specified region.
 * Make sure your AWS credentials are configured properly for Terraform.
 
----
 
-Let me know if you’d like a diagram export or integration with CI/CD pipelines!
